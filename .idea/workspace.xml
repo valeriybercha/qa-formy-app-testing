@@ -18,6 +18,9 @@
     </option>
     <option name="SCHEME" value="Project" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,12 +32,14 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Uz4HI8v5p13UpFslrQqUf2rW6E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="EditorConfig&#10;DTD" />
     <property name="last_opened_file_path" value="D:/Programs/hamcrest-core-1.3.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -181,26 +186,26 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="528" y="274" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.826@0.0.1536.826" timestamp="1577636089564" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1577380595790">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578234548502">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1577380595790" />
-    <state width="1492" height="182" key="GridCell.Tab.0.bottom" timestamp="1577638843406">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1578234548502" />
+    <state width="1492" height="182" key="GridCell.Tab.0.bottom" timestamp="1577643930517">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="182" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1577638843406" />
-    <state width="1492" height="182" key="GridCell.Tab.0.center" timestamp="1577638843405">
+    <state width="1492" height="182" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1577643930517" />
+    <state width="1492" height="182" key="GridCell.Tab.0.center" timestamp="1577643930517">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="182" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1577638843405" />
-    <state width="1492" height="182" key="GridCell.Tab.0.left" timestamp="1577638843405">
+    <state width="1492" height="182" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1577643930517" />
+    <state width="1492" height="182" key="GridCell.Tab.0.left" timestamp="1577643930517">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="182" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1577638843405" />
-    <state width="1492" height="182" key="GridCell.Tab.0.right" timestamp="1577638843405">
+    <state width="1492" height="182" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1577643930517" />
+    <state width="1492" height="182" key="GridCell.Tab.0.right" timestamp="1577643930517">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1492" height="182" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1577638843405" />
+    <state width="1492" height="182" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1577643930517" />
     <state width="1492" height="256" key="GridCell.Tab.1.bottom" timestamp="1576353943802">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
@@ -225,13 +230,13 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.826@0.0.1536.826" timestamp="1577637823725" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1577634248947">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1578234473746">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1577634248947" />
-    <state x="209" y="33" key="new project wizard" timestamp="1577636657662">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1578234473746" />
+    <state x="209" y="33" key="new project wizard" timestamp="1578234569078">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="209" y="33" key="new project wizard/0.0.1536.826@0.0.1536.826" timestamp="1577636657662" />
+    <state x="209" y="33" key="new project wizard/0.0.1536.826@0.0.1536.826" timestamp="1578234569078" />
   </component>
 </project>
